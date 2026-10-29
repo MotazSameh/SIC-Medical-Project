@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "total_documents": 20,
+    "total_chunks": 853,
+    "total_warnings": 14,
+    "timestamp": "2026-02-01T02:16:47.943580"
+  },
+  "warnings": [
+    {
+      "document_id": "fda_atorvastatin_highlights_2024",
+      "chunk_id": "fda_atorvastatin_highlights_2024_chunk_0014",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 172,
+      "chunk_index": 14,
+      "severity": "medium"
+    },
+    {
+      "document_id": "fda_atorvastatin_highlights_2024",
+      "chunk_id": "fda_atorvastatin_highlights_2024_chunk_0021",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 381,
+      "chunk_index": 21,
+      "severity": "medium"
+    },
+    {
+      "document_id": "fda_atorvastatin_highlights_2024",
+      "chunk_id": "fda_atorvastatin_highlights_2024_chunk_0034",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 479,
+      "chunk_index": 34,
+      "severity": "medium"
+    },
+    {
+      "document_id": "fda_atorvastatin_highlights_2024",
+      "chunk_id": "fda_atorvastatin_highlights_2024_chunk_0035",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 200,
+      "chunk_index": 35,
+      "severity": "medium"
+    },
+    {
+      "document_id": "fda_metformin_extended_release_2025",
+      "chunk_id": "fda_metformin_extended_release_2025_chunk_0014",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 225,
+      "chunk_index": 14,
+      "severity": "medium"
+    },
+    {
+      "document_id": "fda_metformin_extended_release_2025",
+      "chunk_id": "fda_metformin_extended_release_2025_chunk_0029",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 485,
+      "chunk_index": 29,
+      "severity": "medium"
+    },
+    {
+      "document_id": "fda_warfarin_label_2025",
+      "chunk_id": "fda_warfarin_label_2025_chunk_0022",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 259,
+      "chunk_index": 22,
+      "severity": "medium"
+    },
+    {
+      "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+      "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0017",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 222,
+      "chunk_index": 17,
+      "severity": "medium"
+    },
+    {
+      "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+      "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0024",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 352,
+      "chunk_index": 24,
+      "severity": "medium"
+    },
+    {
+      "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+      "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0030",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 283,
+      "chunk_index": 30,
+      "severity": "medium"
+    },
+    {
+      "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+      "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0036",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 185,
+      "chunk_index": 36,
+      "severity": "medium"
+    },
+    {
+      "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+      "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0042",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 216,
+      "chunk_index": 42,
+      "severity": "medium"
+    },
+    {
+      "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+      "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0051",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 419,
+      "chunk_index": 51,
+      "severity": "medium"
+    },
+    {
+      "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+      "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0052",
+      "warning_category": "table_split_detected",
+      "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+      "chunk_token_count": 136,
+      "chunk_index": 52,
+      "severity": "medium"
+    }
+  ],
+  "outlier_stats": {
+    "too_small_count": 0,
+    "too_large_count": 0,
+    "table_split_count": 14
+  },
+  "adaptive_overlap_documents": [
+    "fda_atorvastatin_highlights_2024",
+    "fda_warfarin_highlights_2022",
+    "fda_warfarin_label_2025",
+    "nice_amoxicillin_guideline_antimicrobial_2021"
+  ]
+}

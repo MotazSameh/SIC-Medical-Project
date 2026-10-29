@@ -1,0 +1,57 @@
+Manual Inspection Results — Day 3 Parsing
+
+Date: 2026-02-01
+
+
+---
+
+Document 1: fda_warfarin_label_2025.md
+✅ Table structure preserved? [YES]
+✅ Critical data intact? [YES mostly]
+✅ Headers present? [YES]
+Overall rating: [GOOD FAIR]
+Notes: nice but can be improved fs but the orginal document itself is messy to parse
+
+---
+
+Document 2: fda_amoxicillin_highlights_2025.md
+✅ Table structure preserved? [YES]
+✅ Critical data intact? [YES mostly but messy 
+✅ Headers present? [YES]
+Overall rating:  good but messy 
+Notes: 1 or 2 table have done things like one or more rows merged when parsed although maintainng the table structure
+
+---
+
+Document 3: fda_ibuprofen_label_2024.md
+✅ Table structure preserved? [YES]
+✅ Critical data intact? [YES]
+✅ Headers present? [YES]
+Overall rating: [GOOD]
+Notes:
+
+---
+
+Document 4: nice_amoxicillin_guideline_antimicrobial_2021.md
+✅ Table structure preserved? [NO]
+✅ Critical data intact? [little bit]
+✅ Headers present? [YES some]
+Overall rating: [FAIR POOR]
+Notes:i cant tell the whole document is table only and very messy still most of the data it is there in terms of text but not as tables
+
+---
+
+Document 5: nice_atorvastatin_guideline_cardiovascular_2023.md
+✅ Table structure preserved? [YES]
+✅ Critical data intact? [YES]
+✅ Headers present? [YES]
+Overall rating: [GOOD]
+Notes:
+
+---
+
+Summary:
+- GOOD: 4/5
+
+
+Threshold met? (4/5 intact tables): [YES]

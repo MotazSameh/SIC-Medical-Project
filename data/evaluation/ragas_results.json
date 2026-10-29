@@ -1,0 +1,312 @@
+{
+  "timestamp": "2026-02-03T18:29:33.233479",
+  "retrieval_method": "vector_only",
+  "evaluator": "RAGAS + OpenAI gpt-4o-mini",
+  "generator": "OpenAI gpt-4o-mini",
+  "metrics_used": [
+    "faithfulness",
+    "answer_relevancy",
+    "context_precision"
+  ],
+  "num_queries": 20,
+  "total_cost_usd": 0.168,
+  "aggregate_metrics": {
+    "faithfulness": {
+      "mean": 0.7961538461538462,
+      "median": 1.0,
+      "min": 0.0,
+      "max": 1.0,
+      "stdev": 0.4087755832010568,
+      "valid_count": 20
+    },
+    "answer_relevancy": {
+      "mean": 0.6957748261623367,
+      "median": 0.897951402168257,
+      "min": 0.0,
+      "max": 0.999999999999999,
+      "stdev": 0.41849715434791995,
+      "valid_count": 20
+    },
+    "context_precision": {
+      "mean": 0.6441978457735112,
+      "median": 0.8742063491848346,
+      "min": 0.0,
+      "max": 0.99999999995,
+      "stdev": 0.3954911649161084,
+      "valid_count": 20
+    },
+    "overall": {
+      "mean": 0.7120421726965647
+    }
+  },
+  "per_query_scores": {
+    "faithfulness": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9230769230769231,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0
+    ],
+    "answer_relevancy": [
+      0.8447016894625826,
+      0.9999999999999986,
+      0.907497196390577,
+      0.9305142979705899,
+      0.8072441987545623,
+      0.9935132792221446,
+      0.0,
+      0.737074001723233,
+      0.9999994156966578,
+      0.9848176996355923,
+      0.0,
+      0.0,
+      0.0,
+      0.8884056079459369,
+      0.8527484213042132,
+      0.999999999999999,
+      0.9999996802385315,
+      0.9800665021360538,
+      0.0,
+      0.9889145327660614
+    ],
+    "context_precision": [
+      0.6388888888675925,
+      0.9617346938638119,
+      0.16666666665,
+      0.9821428571288265,
+      0.9999999999,
+      0.41111111109740744,
+      0.0,
+      0.9166666666361111,
+      0.9150793650641138,
+      0.9999999999,
+      0.0,
+      0.99999999995,
+      0.9999999999,
+      0.99999999995,
+      0.1249999999875,
+      0.94999999997625,
+      0.4499999999775,
+      0.5333333333155555,
+      0.0,
+      0.8333333333055556
+    ]
+  },
+  "metadata": [
+    {
+      "query_id": 1,
+      "category": "side_effects",
+      "difficulty": "easy",
+      "expected_drug": "warfarin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 3,
+      "is_refusal": false,
+      "latency_ms": 2639.488458633423
+    },
+    {
+      "query_id": 2,
+      "category": "side_effects",
+      "difficulty": "medium",
+      "expected_drug": "warfarin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 6,
+      "is_refusal": false,
+      "latency_ms": 4944.532155990601
+    },
+    {
+      "query_id": 3,
+      "category": "side_effects",
+      "difficulty": "medium",
+      "expected_drug": "atorvastatin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 3,
+      "is_refusal": false,
+      "latency_ms": 2630.441665649414
+    },
+    {
+      "query_id": 4,
+      "category": "side_effects",
+      "difficulty": "easy",
+      "expected_drug": "metformin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 4,
+      "is_refusal": false,
+      "latency_ms": 5774.158954620361
+    },
+    {
+      "query_id": 5,
+      "category": "side_effects",
+      "difficulty": "easy",
+      "expected_drug": "ibuprofen",
+      "chunks_retrieved": 8,
+      "cited_chunks": 2,
+      "is_refusal": false,
+      "latency_ms": 2472.3174571990967
+    },
+    {
+      "query_id": 6,
+      "category": "interactions",
+      "difficulty": "medium",
+      "expected_drug": "warfarin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 3,
+      "is_refusal": false,
+      "latency_ms": 3045.8898544311523
+    },
+    {
+      "query_id": 7,
+      "category": "interactions",
+      "difficulty": "easy",
+      "expected_drug": "lisinopril",
+      "chunks_retrieved": 8,
+      "cited_chunks": 0,
+      "is_refusal": true,
+      "latency_ms": 1075.3111839294434
+    },
+    {
+      "query_id": 8,
+      "category": "interactions",
+      "difficulty": "medium",
+      "expected_drug": "ciprofloxacin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 1,
+      "is_refusal": false,
+      "latency_ms": 2445.826292037964
+    },
+    {
+      "query_id": 9,
+      "category": "interactions",
+      "difficulty": "easy",
+      "expected_drug": "atorvastatin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 3,
+      "is_refusal": false,
+      "latency_ms": 3425.61411857605
+    },
+    {
+      "query_id": 10,
+      "category": "interactions",
+      "difficulty": "medium",
+      "expected_drug": "metformin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 2,
+      "is_refusal": false,
+      "latency_ms": 3052.5875091552734
+    },
+    {
+      "query_id": 11,
+      "category": "contraindications",
+      "difficulty": "easy",
+      "expected_drug": "warfarin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 0,
+      "is_refusal": true,
+      "latency_ms": 1041.9094562530518
+    },
+    {
+      "query_id": 12,
+      "category": "contraindications",
+      "difficulty": "medium",
+      "expected_drug": "amoxicillin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 1,
+      "is_refusal": false,
+      "latency_ms": 3498.5761642456055
+    },
+    {
+      "query_id": 13,
+      "category": "contraindications",
+      "difficulty": "medium",
+      "expected_drug": "ibuprofen",
+      "chunks_retrieved": 5,
+      "cited_chunks": 0,
+      "is_refusal": true,
+      "latency_ms": 815.148115158081
+    },
+    {
+      "query_id": 14,
+      "category": "contraindications",
+      "difficulty": "easy",
+      "expected_drug": "lisinopril",
+      "chunks_retrieved": 8,
+      "cited_chunks": 2,
+      "is_refusal": false,
+      "latency_ms": 4785.022735595703
+    },
+    {
+      "query_id": 15,
+      "category": "dosage",
+      "difficulty": "easy",
+      "expected_drug": "metformin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 1,
+      "is_refusal": false,
+      "latency_ms": 2949.895143508911
+    },
+    {
+      "query_id": 16,
+      "category": "dosage",
+      "difficulty": "hard",
+      "expected_drug": "warfarin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 4,
+      "is_refusal": false,
+      "latency_ms": 3658.4537029266357
+    },
+    {
+      "query_id": 17,
+      "category": "dosage",
+      "difficulty": "easy",
+      "expected_drug": "paracetamol",
+      "chunks_retrieved": 8,
+      "cited_chunks": 1,
+      "is_refusal": false,
+      "latency_ms": 1262.871265411377
+    },
+    {
+      "query_id": 18,
+      "category": "mechanism",
+      "difficulty": "medium",
+      "expected_drug": "warfarin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 2,
+      "is_refusal": false,
+      "latency_ms": 3180.073022842407
+    },
+    {
+      "query_id": 19,
+      "category": "mechanism",
+      "difficulty": "medium",
+      "expected_drug": "atorvastatin",
+      "chunks_retrieved": 8,
+      "cited_chunks": 0,
+      "is_refusal": true,
+      "latency_ms": 985.2268695831299
+    },
+    {
+      "query_id": 20,
+      "category": "mechanism",
+      "difficulty": "medium",
+      "expected_drug": "lisinopril",
+      "chunks_retrieved": 8,
+      "cited_chunks": 2,
+      "is_refusal": false,
+      "latency_ms": 3733.469009399414
+    }
+  ]
+}

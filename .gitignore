@@ -8,9 +8,8 @@ __pycache__/
 # Big generated data / vector DBs
 src/arabic/vector_db/
 src/arabic/vector_db_1/
-data/
-*.pkl
 *.sqlite3
 *.bin
 *.keras
 *.h5
+data/bm25_index_old_backup.pkl

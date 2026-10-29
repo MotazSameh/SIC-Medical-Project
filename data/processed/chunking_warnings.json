@@ -1,0 +1,497 @@
+[
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0002",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 41 tokens (threshold: 50)",
+    "chunk_token_count": 41,
+    "chunk_index": 2,
+    "severity": "low"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0003",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 511,
+    "chunk_index": 3,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0005",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 13 tokens (threshold: 50)",
+    "chunk_token_count": 13,
+    "chunk_index": 5,
+    "severity": "high"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0008",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 403,
+    "chunk_index": 8,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0013",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 122,
+    "chunk_index": 13,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0015",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 157,
+    "chunk_index": 15,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0017",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 266,
+    "chunk_index": 17,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0022",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 470,
+    "chunk_index": 22,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0023",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 13 tokens (threshold: 50)",
+    "chunk_token_count": 13,
+    "chunk_index": 23,
+    "severity": "high"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0024",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 211,
+    "chunk_index": 24,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0029",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 159,
+    "chunk_index": 29,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0033",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 4 tokens (threshold: 50)",
+    "chunk_token_count": 4,
+    "chunk_index": 33,
+    "severity": "high"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0034",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 281,
+    "chunk_index": 34,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0037",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 186,
+    "chunk_index": 37,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0041",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 1 tokens (threshold: 50)",
+    "chunk_token_count": 1,
+    "chunk_index": 41,
+    "severity": "high"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0042",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 268,
+    "chunk_index": 42,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0044",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 48 tokens (threshold: 50)",
+    "chunk_token_count": 48,
+    "chunk_index": 44,
+    "severity": "low"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0045",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 449,
+    "chunk_index": 45,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0049",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 219,
+    "chunk_index": 49,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0050",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 360,
+    "chunk_index": 50,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0053",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 165,
+    "chunk_index": 53,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0058",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 289,
+    "chunk_index": 58,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0059",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 510,
+    "chunk_index": 59,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0063",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 470,
+    "chunk_index": 63,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0067",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 506,
+    "chunk_index": 67,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0070",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 20 tokens (threshold: 50)",
+    "chunk_token_count": 20,
+    "chunk_index": 70,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0071",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 200,
+    "chunk_index": 71,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0073",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 49 tokens (threshold: 50)",
+    "chunk_token_count": 49,
+    "chunk_index": 73,
+    "severity": "low"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0074",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 326,
+    "chunk_index": 74,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0076",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 46 tokens (threshold: 50)",
+    "chunk_token_count": 46,
+    "chunk_index": 76,
+    "severity": "low"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0078",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 9 tokens (threshold: 50)",
+    "chunk_token_count": 9,
+    "chunk_index": 78,
+    "severity": "high"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0080",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 356,
+    "chunk_index": 80,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0081",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 1 tokens (threshold: 50)",
+    "chunk_token_count": 1,
+    "chunk_index": 81,
+    "severity": "high"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0082",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 255,
+    "chunk_index": 82,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0084",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 49 tokens (threshold: 50)",
+    "chunk_token_count": 49,
+    "chunk_index": 84,
+    "severity": "low"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0085",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 3 tokens (threshold: 50)",
+    "chunk_token_count": 3,
+    "chunk_index": 85,
+    "severity": "high"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0087",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 350,
+    "chunk_index": 87,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0088",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 511,
+    "chunk_index": 88,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0090",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 27 tokens (threshold: 50)",
+    "chunk_token_count": 27,
+    "chunk_index": 90,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0091",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 49 tokens (threshold: 50)",
+    "chunk_token_count": 49,
+    "chunk_index": 91,
+    "severity": "low"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0092",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 306,
+    "chunk_index": 92,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0095",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 28 tokens (threshold: 50)",
+    "chunk_token_count": 28,
+    "chunk_index": 95,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0101",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 292,
+    "chunk_index": 101,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0103",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 289,
+    "chunk_index": 103,
+    "severity": "medium"
+  },
+  {
+    "document_id": "nice_amoxicillin_guideline_antimicrobial_2021",
+    "chunk_id": "nice_amoxicillin_guideline_antimicrobial_2021_chunk_0104",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 386,
+    "chunk_index": 104,
+    "severity": "medium"
+  },
+  {
+    "document_id": "fda_atorvastatin_highlights_2024",
+    "chunk_id": "fda_atorvastatin_highlights_2024_chunk_0015",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 215,
+    "chunk_index": 15,
+    "severity": "medium"
+  },
+  {
+    "document_id": "fda_atorvastatin_highlights_2024",
+    "chunk_id": "fda_atorvastatin_highlights_2024_chunk_0026",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 343,
+    "chunk_index": 26,
+    "severity": "medium"
+  },
+  {
+    "document_id": "fda_atorvastatin_highlights_2024",
+    "chunk_id": "fda_atorvastatin_highlights_2024_chunk_0027",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 45 tokens (threshold: 50)",
+    "chunk_token_count": 45,
+    "chunk_index": 27,
+    "severity": "low"
+  },
+  {
+    "document_id": "fda_atorvastatin_highlights_2024",
+    "chunk_id": "fda_atorvastatin_highlights_2024_chunk_0029",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 384,
+    "chunk_index": 29,
+    "severity": "medium"
+  },
+  {
+    "document_id": "fda_atorvastatin_highlights_2024",
+    "chunk_id": "fda_atorvastatin_highlights_2024_chunk_0042",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 481,
+    "chunk_index": 42,
+    "severity": "medium"
+  },
+  {
+    "document_id": "fda_atorvastatin_highlights_2024",
+    "chunk_id": "fda_atorvastatin_highlights_2024_chunk_0043",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 200,
+    "chunk_index": 43,
+    "severity": "medium"
+  },
+  {
+    "document_id": "fda_atorvastatin_highlights_2024",
+    "chunk_id": "fda_atorvastatin_highlights_2024_chunk_0055",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 386,
+    "chunk_index": 55,
+    "severity": "medium"
+  },
+  {
+    "document_id": "fda_metformin_extended_release_2025",
+    "chunk_id": "fda_metformin_extended_release_2025_chunk_0013",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 148,
+    "chunk_index": 13,
+    "severity": "medium"
+  },
+  {
+    "document_id": "fda_metformin_extended_release_2025",
+    "chunk_id": "fda_metformin_extended_release_2025_chunk_0015",
+    "warning_category": "outlier_too_small",
+    "message": "Chunk contains only 45 tokens (threshold: 50)",
+    "chunk_token_count": 45,
+    "chunk_index": 15,
+    "severity": "low"
+  },
+  {
+    "document_id": "fda_warfarin_label_2025",
+    "chunk_id": "fda_warfarin_label_2025_chunk_0022",
+    "warning_category": "table_split_detected",
+    "message": "Chunk starts with table row but no table header detected (possible mid-table split)",
+    "chunk_token_count": 283,
+    "chunk_index": 22,
+    "severity": "medium"
+  }
+]

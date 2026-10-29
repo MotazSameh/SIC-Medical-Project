@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-02-03T18:29:33.233479",
+  "retrieval_method": "vector_only",
+  "evaluator_model": "gpt-4o-mini",
+  "generator_model": "gpt-4o-mini",
+  "metrics_used": [
+    "faithfulness",
+    "answer_relevancy",
+    "context_precision"
+  ],
+  "num_queries": 20,
+  "total_cost_usd": 0.168,
+  "aggregate_metrics": {
+    "faithfulness": {
+      "mean": 0.7961538461538462,
+      "median": 1.0,
+      "min": 0.0,
+      "max": 1.0,
+      "stdev": 0.4087755832010568,
+      "valid_count": 20
+    },
+    "answer_relevancy": {
+      "mean": 0.6957748261623367,
+      "median": 0.897951402168257,
+      "min": 0.0,
+      "max": 0.999999999999999,
+      "stdev": 0.41849715434791995,
+      "valid_count": 20
+    },
+    "context_precision": {
+      "mean": 0.6441978457735112,
+      "median": 0.8742063491848346,
+      "min": 0.0,
+      "max": 0.99999999995,
+      "stdev": 0.3954911649161084,
+      "valid_count": 20
+    },
+    "overall": {
+      "mean": 0.7120421726965647
+    }
+  }
+}

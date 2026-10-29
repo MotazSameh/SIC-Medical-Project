@@ -1,0 +1,144 @@
+{
+  "queries": [
+    {
+      "query_id": 1,
+      "query_text": "What are the common side effects of warfarin?",
+      "expected_drug": "warfarin",
+      "category": "side_effects",
+      "difficulty": "easy"
+    },
+    {
+      "query_id": 2,
+      "query_text": "What are the serious side effects of warfarin that require immediate medical attention?",
+      "expected_drug": "warfarin",
+      "category": "side_effects",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": 3,
+      "query_text": "What are the adverse effects of atorvastatin on muscles?",
+      "expected_drug": "atorvastatin",
+      "category": "side_effects",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": 4,
+      "query_text": "What side effects should I watch for when taking metformin?",
+      "expected_drug": "metformin",
+      "category": "side_effects",
+      "difficulty": "easy"
+    },
+    {
+      "query_id": 5,
+      "query_text": "What are the gastrointestinal side effects of ibuprofen?",
+      "expected_drug": "ibuprofen",
+      "category": "side_effects",
+      "difficulty": "easy"
+    },
+    {
+      "query_id": 6,
+      "query_text": "What drugs interact with warfarin and increase bleeding risk?",
+      "expected_drug": "warfarin",
+      "category": "interactions",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": 7,
+      "query_text": "Can I take ibuprofen with lisinopril?",
+      "expected_drug": "lisinopril",
+      "category": "interactions",
+      "difficulty": "easy"
+    },
+    {
+      "query_id": 8,
+      "query_text": "What happens if I take ciprofloxacin with antacids?",
+      "expected_drug": "ciprofloxacin",
+      "category": "interactions",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": 9,
+      "query_text": "Does atorvastatin interact with grapefruit juice?",
+      "expected_drug": "atorvastatin",
+      "category": "interactions",
+      "difficulty": "easy"
+    },
+    {
+      "query_id": 10,
+      "query_text": "What medications should I avoid while taking metformin?",
+      "expected_drug": "metformin",
+      "category": "interactions",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": 11,
+      "query_text": "Who should not take warfarin?",
+      "expected_drug": "warfarin",
+      "category": "contraindications",
+      "difficulty": "easy"
+    },
+    {
+      "query_id": 12,
+      "query_text": "Is amoxicillin safe during pregnancy?",
+      "expected_drug": "amoxicillin",
+      "category": "contraindications",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": 13,
+      "query_text": "Can I take ibuprofen if I have kidney disease?",
+      "expected_drug": "ibuprofen",
+      "category": "contraindications",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": 14,
+      "query_text": "What are the contraindications for lisinopril?",
+      "expected_drug": "lisinopril",
+      "category": "contraindications",
+      "difficulty": "easy"
+    },
+    {
+      "query_id": 15,
+      "query_text": "What is the recommended dosage of metformin for type 2 diabetes?",
+      "expected_drug": "metformin",
+      "category": "dosage",
+      "difficulty": "easy"
+    },
+    {
+      "query_id": 16,
+      "query_text": "How should warfarin dosage be adjusted for elderly patients?",
+      "expected_drug": "warfarin",
+      "category": "dosage",
+      "difficulty": "hard"
+    },
+    {
+      "query_id": 17,
+      "query_text": "What is the maximum daily dose of paracetamol for adults?",
+      "expected_drug": "paracetamol",
+      "category": "dosage",
+      "difficulty": "easy"
+    },
+    {
+      "query_id": 18,
+      "query_text": "How does warfarin prevent blood clots?",
+      "expected_drug": "warfarin",
+      "category": "mechanism",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": 19,
+      "query_text": "What is the mechanism of action of atorvastatin?",
+      "expected_drug": "atorvastatin",
+      "category": "mechanism",
+      "difficulty": "medium"
+    },
+    {
+      "query_id": 20,
+      "query_text": "How does lisinopril lower blood pressure?",
+      "expected_drug": "lisinopril",
+      "category": "mechanism",
+      "difficulty": "medium"
+    }
+  ]
+}
