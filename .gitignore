@@ -1,0 +1,16 @@
+# Environments
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# Big generated data / vector DBs
+src/arabic/vector_db/
+src/arabic/vector_db_1/
+data/
+*.pkl
+*.sqlite3
+*.bin
+*.keras
+*.h5

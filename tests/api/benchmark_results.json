@@ -1,0 +1,154 @@
+{
+  "timestamp": "2026-02-01 23:18:40",
+  "total_queries": 15,
+  "results": [
+    {
+      "query": "What are the side effects of warfarin?",
+      "config": {
+        "top_k": 5,
+        "retriever_type": "hybrid",
+        "iterations": 3
+      },
+      "latency": {
+        "avg_ms": 756.73,
+        "min_ms": 717.41,
+        "max_ms": 813.7,
+        "stddev_ms": 50.513195305781274,
+        "variance_pct": 6.675193966907784
+      },
+      "retrieval": {
+        "avg_ms": 21.560000000000002,
+        "pct_of_total": 2.8491007360617395
+      },
+      "generation": {
+        "avg_ms": 734.36,
+        "pct_of_total": 97.0438597650417
+      },
+      "results": {
+        "avg_chunks_cited": 2,
+        "refusal_rate": 0,
+        "avg_cost_usd": 0.0
+      }
+    },
+    {
+      "query": "What are the contraindications for atorvastatin?",
+      "config": {
+        "top_k": 5,
+        "retriever_type": "hybrid",
+        "iterations": 3
+      },
+      "latency": {
+        "avg_ms": 6164.99,
+        "min_ms": 758.06,
+        "max_ms": 12928.68,
+        "stddev_ms": 6197.70893712346,
+        "variance_pct": 100.53072165767438
+      },
+      "retrieval": {
+        "avg_ms": 21.23,
+        "pct_of_total": 0.3443639000225467
+      },
+      "generation": {
+        "avg_ms": 6142.893333333333,
+        "pct_of_total": 99.64157822370083
+      },
+      "results": {
+        "avg_chunks_cited": 3,
+        "refusal_rate": 66.66666666666666,
+        "avg_cost_usd": 0.0
+      }
+    },
+    {
+      "query": "What drugs interact with lisinopril?",
+      "config": {
+        "top_k": 5,
+        "retriever_type": "hybrid",
+        "iterations": 3
+      },
+      "latency": {
+        "avg_ms": 12973.64,
+        "min_ms": 12907.66,
+        "max_ms": 13029.32,
+        "stddev_ms": 61.480536757578804,
+        "variance_pct": 0.47388810509293317
+      },
+      "retrieval": {
+        "avg_ms": 28.086666666666666,
+        "pct_of_total": 0.21649025768147312
+      },
+      "generation": {
+        "avg_ms": 12944.646666666667,
+        "pct_of_total": 99.77652121275653
+      },
+      "results": {
+        "avg_chunks_cited": 2.3333333333333335,
+        "refusal_rate": 0,
+        "avg_cost_usd": 0.0
+      }
+    },
+    {
+      "query": "How does metformin work?",
+      "config": {
+        "top_k": 5,
+        "retriever_type": "hybrid",
+        "iterations": 3
+      },
+      "latency": {
+        "avg_ms": 13324.333333333334,
+        "min_ms": 12988.53,
+        "max_ms": 13993.34,
+        "stddev_ms": 579.3782270963706,
+        "variance_pct": 4.3482717866787866
+      },
+      "retrieval": {
+        "avg_ms": 19.60333333333333,
+        "pct_of_total": 0.14712430890851322
+      },
+      "generation": {
+        "avg_ms": 13303.99,
+        "pct_of_total": 99.84732194231105
+      },
+      "results": {
+        "avg_chunks_cited": 2.6666666666666665,
+        "refusal_rate": 0,
+        "avg_cost_usd": 0.0
+      }
+    },
+    {
+      "query": "What is the recommended dosage of ciprofloxacin?",
+      "config": {
+        "top_k": 5,
+        "retriever_type": "hybrid",
+        "iterations": 3
+      },
+      "latency": {
+        "avg_ms": 9331.513333333332,
+        "min_ms": 99.39,
+        "max_ms": 15051.42,
+        "stddev_ms": 8071.093464669662,
+        "variance_pct": 86.49286751634064
+      },
+      "retrieval": {
+        "avg_ms": 19.343333333333334,
+        "pct_of_total": 0.20729042163221834
+      },
+      "generation": {
+        "avg_ms": 9311.43,
+        "pct_of_total": 99.78477946056626
+      },
+      "results": {
+        "avg_chunks_cited": 3.3333333333333335,
+        "refusal_rate": 66.66666666666666,
+        "avg_cost_usd": 0.0
+      }
+    }
+  ],
+  "summary": {
+    "avg_latency_ms": 8510.241333333333,
+    "median_latency_ms": 9331.513333333332,
+    "stddev_latency_ms": 5229.460750227503,
+    "avg_retrieval_ms": 21.964666666666666,
+    "avg_generation_ms": 8487.464,
+    "refusal_rate_pct": 26.666666666666664
+  }
+}

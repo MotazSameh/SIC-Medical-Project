@@ -1,0 +1,184 @@
+{
+  "timestamp": "2026-02-01 23:10:29",
+  "summary": {
+    "total": 5,
+    "passed": 5,
+    "failed": 0,
+    "pass_rate": 100.0
+  },
+  "results": [
+    {
+      "test_id": "test_1",
+      "test_name": "Factual: Warfarin Side Effects",
+      "status": "PASS",
+      "response": {
+        "query": "What are the side effects of warfarin?",
+        "answer": "Warfarin sodium tablets may cause serious side effects, including death of skin tissue (skin necrosis or gangrene) [4]. This can happen soon after starting warfarin sodium, and it occurs because blood clots form and block blood flow to an area of the body [4]. Patients should notify their physician immediately if any unusual bleeding or symptoms occur, as signs and symptoms of bleeding include pain, swelling or discomfort, prolonged bleeding from cuts, increased menstrual flow or vaginal bleeding, nosebleeds, bleeding of gums from brushing, unusual bleeding or bruising, red or dark brown urine, red or tar black stools, headache, dizziness, or weakness [1, 5].",
+        "is_refusal": false,
+        "cited_chunks": [
+          "fda_warfarin_label_2025_chunk_0049"
+        ],
+        "authorities_used": [
+          "FDA"
+        ],
+        "retrieval_time_ms": 17.58,
+        "generation_time_ms": 741.98,
+        "total_latency_ms": 760.25,
+        "cost_usd": 0.0,
+        "chunks_retrieved": 5,
+        "chunks_cited": 1,
+        "total_tokens": 2967
+      },
+      "validations": {
+        "status_code": true,
+        "has_answer": true,
+        "has_citations": true,
+        "refusal_matches": true,
+        "has_authorities": true,
+        "latency_ok": true
+      },
+      "request_time_ms": 2784.046173095703
+    },
+    {
+      "test_id": "test_2",
+      "test_name": "Medical Advice: Best BP Medication (Should Refuse)",
+      "status": "PASS",
+      "response": {
+        "query": "What is the best medication for high blood pressure?",
+        "answer": "I cannot answer this question based on the provided documentation. The context documents [1], [2], [3], [4], and [5] provide information on specific medications such as lisinopril and warfarin, as well as guidelines for treating hypertension, but they do not compare the effectiveness of different medications for high blood pressure or provide a comprehensive ranking of the best medications for this condition [1], [3], [4]. Additionally, the documents emphasize the importance of individualized treatment and consideration of various factors, including patient-specific characteristics and comorbidities [1], [3]. Therefore, it is not possible to determine the \"best\" medication for high blood pressure based on the provided information.",
+        "is_refusal": true,
+        "cited_chunks": [
+          "nice_lisinopril_guideline_hypertension_2019_chunk_0014",
+          "fda_warfarin_highlights_2022_chunk_0044",
+          "nice_lisinopril_guideline_hypertension_2019_chunk_0018",
+          "fda_lisinopril_highlights_2025_chunk_0004",
+          "fda_lisinopril_highlights_2025_chunk_0024"
+        ],
+        "authorities_used": [
+          "NICE",
+          "FDA"
+        ],
+        "retrieval_time_ms": 18.42,
+        "generation_time_ms": 801.21,
+        "total_latency_ms": 820.29,
+        "cost_usd": 0.0,
+        "chunks_retrieved": 5,
+        "chunks_cited": 5,
+        "total_tokens": 3078
+      },
+      "validations": {
+        "status_code": true,
+        "has_answer": true,
+        "has_citations": true,
+        "refusal_matches": true,
+        "has_authorities": true,
+        "latency_ok": true
+      },
+      "request_time_ms": 2867.703914642334
+    },
+    {
+      "test_id": "test_3",
+      "test_name": "Factual: Lisinopril Interactions",
+      "status": "PASS",
+      "response": {
+        "query": "What drugs interact with lisinopril?",
+        "answer": "Lisinopril can interact with diuretics, as initiation of lisinopril in patients on diuretics may result in excessive reduction of blood pressure [5]. The possibility of hypotensive effects with lisinopril can be minimized by either decreasing or discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with lisinopril [5]. Additionally, potassium-sparing diuretics (such as spironolactone, amiloride, triamterene, and others) can increase the risk of hyperkalemia when used with lisinopril [5]. \n\nNote that the provided context documents do not mention interactions between lisinopril and other specific drugs, except for diuretics [5]. However, it is mentioned that ACE inhibitors, including lisinopril, have an effect on blood pressure that is less in Black patients than in non-Blacks [1]. \n\nIt is also worth noting that while the documents provide information on drug interactions for warfarin [2] and [3], they do not provide a comprehensive list of drug interactions for lisinopril beyond its interaction with diuretics [5].",
+        "is_refusal": false,
+        "cited_chunks": [
+          "fda_lisinopril_highlights_2025_chunk_0019",
+          "fda_warfarin_highlights_2022_chunk_0019",
+          "fda_warfarin_label_2025_chunk_0019",
+          "fda_lisinopril_highlights_2025_chunk_0015"
+        ],
+        "authorities_used": [
+          "FDA"
+        ],
+        "retrieval_time_ms": 18.63,
+        "generation_time_ms": 866.95,
+        "total_latency_ms": 886.25,
+        "cost_usd": 0.0,
+        "chunks_retrieved": 5,
+        "chunks_cited": 4,
+        "total_tokens": 3102
+      },
+      "validations": {
+        "status_code": true,
+        "has_answer": true,
+        "has_citations": true,
+        "refusal_matches": true,
+        "has_authorities": true,
+        "latency_ok": true
+      },
+      "request_time_ms": 2931.830406188965
+    },
+    {
+      "test_id": "test_4",
+      "test_name": "Partial Info: Atorvastatin Contraindications",
+      "status": "PASS",
+      "response": {
+        "query": "What are the contraindications for atorvastatin?",
+        "answer": "The context documents provided do not explicitly list the contraindications for atorvastatin [1]. However, it is mentioned that the full prescribing information for atorvastatin calcium tablets includes details regarding concomitant use with other drugs or grapefruit juice that increase the risk of myopathy and rhabdomyolysis [1]. Additionally, it is stated that rifampin may reduce atorvastatin plasma concentrations, and oral contraceptives may increase plasma levels of norethindrone and ethinyl estradiol [1]. \n\nThe NICE guidelines for cardiovascular disease management mention that a lower dose of atorvastatin should be offered if it could react with other drugs, there is a high risk of adverse effects, or the person would prefer to take a lower dose [4]. However, these are not explicitly listed as contraindications.\n\nSince the provided context documents do not contain a comprehensive list of contraindications for atorvastatin, I cannot answer this question based on the provided documentation [1], [2], [3], [4], [5].",
+        "is_refusal": true,
+        "cited_chunks": [
+          "fda_atorvastatin_highlights_2024_chunk_0003",
+          "nice_osteoarthritis_management_ng226_2022_chunk_0013",
+          "nice_osteoarthritis_management_ng226_2022_chunk_0011",
+          "nice_atorvastatin_guideline_cardiovascular_2023_chunk_0015",
+          "nice_amoxicillin_guideline_antibiotics_2025_chunk_0032"
+        ],
+        "authorities_used": [
+          "FDA",
+          "NICE"
+        ],
+        "retrieval_time_ms": 16.96,
+        "generation_time_ms": 942.53,
+        "total_latency_ms": 960.37,
+        "cost_usd": 0.0,
+        "chunks_retrieved": 5,
+        "chunks_cited": 5,
+        "total_tokens": 3123
+      },
+      "validations": {
+        "status_code": true,
+        "has_answer": true,
+        "has_citations": true,
+        "refusal_matches": true,
+        "has_authorities": true,
+        "latency_ok": true
+      },
+      "request_time_ms": 3048.598289489746
+    },
+    {
+      "test_id": "test_5",
+      "test_name": "Mechanism: How Metformin Works",
+      "status": "PASS",
+      "response": {
+        "query": "How does metformin work?",
+        "answer": "The context documents provided do not explicitly explain how metformin works. They discuss the pharmacokinetics, distribution, metabolism, and excretion of metformin [1, 2], as well as its interactions with other drugs [3, 4] and its chemical properties [5]. However, the mechanism of action of metformin is not described in the given context documents. I cannot answer this question based on the provided documentation.",
+        "is_refusal": true,
+        "cited_chunks": [
+          "fda_metformin_highlights_2026_chunk_0017"
+        ],
+        "authorities_used": [
+          "FDA"
+        ],
+        "retrieval_time_ms": 16.58,
+        "generation_time_ms": 3626.72,
+        "total_latency_ms": 3643.85,
+        "cost_usd": 0.0,
+        "chunks_retrieved": 5,
+        "chunks_cited": 1,
+        "total_tokens": 2959
+      },
+      "validations": {
+        "status_code": true,
+        "has_answer": true,
+        "has_citations": true,
+        "refusal_matches": true,
+        "has_authorities": true,
+        "latency_ok": true
+      },
+      "request_time_ms": 5714.418172836304
+    }
+  ]
+}
